@@ -12,5 +12,6 @@
 - Trevor Cummins, MSc, B.Eng (cumminst2@upmc.ie)
 - Jonathan Sweeney, Software Engineer (jonathansweeney@scurri.com)
 - Fiachra Redmond,IT Manager (fiachra.redmond@maples.com)
+- Adam Moriarty, IT Engineer (Adam.moriarty7@mail.dcu.com)
 
 ## ----------- SPRINT 2 -----------------------------
