@@ -10,6 +10,7 @@
 - Sent 25+ Messages on Linkedin
 
 - Trevor Cummins, MSc, B.Eng (cumminst2@upmc.ie)
+- Jonathan Sweeney, Software Engineer (jonathansweeney@scurri.com)
 - Fiachra Redmond ()
 
 ## ----------- SPRINT 2 -----------------------------
