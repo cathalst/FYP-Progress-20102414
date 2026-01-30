@@ -11,6 +11,6 @@
 
 - Trevor Cummins, MSc, B.Eng (cumminst2@upmc.ie)
 - Jonathan Sweeney, Software Engineer (jonathansweeney@scurri.com)
-- Fiachra Redmond ()
+- Fiachra Redmond,IT Manager (fiachraredmond@maples.com)
 
 ## ----------- SPRINT 2 -----------------------------
