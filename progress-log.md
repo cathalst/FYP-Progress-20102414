@@ -13,5 +13,6 @@
 - Jonathan Sweeney, Software Engineer (jonathansweeney@scurri.com)
 - Fiachra Redmond,IT Manager (fiachra.redmond@maples.com)
 - Adam Moriarty, IT Engineer (Adam.moriarty7@mail.dcu.com)
+- Aidan McGrath, Former SETU IT Manager, (aidan.mcgrath@setu.ie)
 
 ## ----------- SPRINT 2 -----------------------------
