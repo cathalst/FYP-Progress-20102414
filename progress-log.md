@@ -18,4 +18,23 @@
 - Jerry Horgan, 20 years of ICT, networking, systems architecture, and research experience (jerry.horgan@setu.ie)
 
 ## ----------- SPRINT 2 -----------------------------
+
+
+## Week 3 
 - Finalise survey, begin distributing it to gathered contacts. 
+- Published survey and sent it to all contacts listed.
+- Fiachra and Noel spread it to there own contacts in IT and Cybersecurity
+
+## Week 4 
+
+- Total of 20 responses on Google forms
+- Connecting with more professionals on Linkedin to reach
+  40 ASAP
+
+
+## ----------- SPRINT 3 ---------------------
+
+## Week 5
+
+
+## Week 6 
