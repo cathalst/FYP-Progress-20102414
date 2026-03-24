@@ -1,6 +1,6 @@
 # Project Development Log - Cathal Stafford 20102414
 
-## ----------- SPRINT 1 -----------------------------
+----------- SPRINT 1 -----------------------------
 ## Week 1 
 - 
 
@@ -17,7 +17,7 @@
 - Noel Hannon, 20 Years in Cyber Security, (noel.hannan@c3iasolutions.co.uk) (Will share will his collegues)
 - Jerry Horgan, 20 years of ICT, networking, systems architecture, and research experience (jerry.horgan@setu.ie)
 
-## ----------- SPRINT 2 -----------------------------
+----------- SPRINT 2 -----------------------------
 
 
 ## Week 3 
@@ -32,9 +32,34 @@
   40 ASAP
 
 
-## ----------- SPRINT 3 ---------------------
+----------- SPRINT 3 ----------------------------- 
 
 ## Week 5
+- Continued LinkedIn outreach to expand survey reach
+- Reviewed initial survey responses and noted early patterns around privilege creep and onboarding
+Week 6
+- Reviewed literature in preparation for qualitative phase
+- Cross-referenced survey findings with S1 report research questions and hypothesis
 
+----------- SPRINT 4 ----------------------------- 
 
-## Week 6 
+## Week 7
+- Survey response count reached 32, continued pushing for additional responses
+- Began drafting qualitative interview questions informed by survey data and literature review
+
+## Week 8
+- Finalised 15 interview questions referencing survey data directly
+- Identified strong interview candidates from survey respondents
+- Began outreach to confirm interview participants
+
+## Week 9 
+- Survey responses reached 37/40
+- Interview questions finalised and confirmed
+3 of 5 interviewees confirmed:
+----Fiachra Redmond, IT Manager — Maples Group
+----Elaine Naughton MSc, IT Manager — Galway City Council
+----Luke O'Sullivan, IT Infrastructure Professional — Cork Institute of Technology
+
+2 interviewee slots remaining — TBC
+- Interviews scheduled for the week of 30th March
+
