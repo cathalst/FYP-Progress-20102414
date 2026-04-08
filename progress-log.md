@@ -1,12 +1,15 @@
 # Project Development Log - Cathal Stafford 20102414
 
------------ SPRINT 1 -----------------------------
+----------- SPRINT 1 | Weeks 1–2 | Jan 20 – Jan 31 -----------------------------
 ## Week 1 
-- 
+
+- Initial project scoping and research topic confirmed
+- Began preliminary reading on RBAC and access control literature
+- Reviewed foundational sources on privilege creep and over-provisioning
 
 ## Week 2 
 - Contacted HR at Datapac (Wexford), The IT Company (Wexford), Scurri (Wexford)
-- 
+  
 - Sent 25+ Messages on Linkedin
 
 - Trevor Cummins, MSc, B.Eng (cumminst2@upmc.ie)
@@ -17,19 +20,24 @@
 - Noel Hannon, 20 Years in Cyber Security, (noel.hannan@c3iasolutions.co.uk) (Will share will his collegues)
 - Jerry Horgan, 20 years of ICT, networking, systems architecture, and research experience (jerry.horgan@setu.ie)
 
------------ SPRINT 2 -----------------------------
+<img width="1597" height="458" alt="image" src="https://github.com/user-attachments/assets/682ba342-acdd-4884-aa17-c58b5111a7e3" />
+
+
+----------- SPRINT 2 | Weeks 3–4 | Feb 3 – Feb 14 -----------------------------
 
 
 ## Week 3 
 - Finalise survey, begin distributing it to gathered contacts. 
 - Published survey and sent it to all contacts listed.
-- Fiachra and Noel spread it to there own contacts in IT and Cybersecurity
+- Fiachra Redmond and Noel Hannon shared survey with their own IT and Cybersecurity networks
 
 ## Week 4 
 
-- Total of 20 responses on Google forms
-- Connecting with more professionals on Linkedin to reach
-  40 ASAP
+- Total of 20 responses received on Google Forms
+- Continued connecting with professionals on LinkedIn to reach target of 40 responses
+- Monitored responses and followed up with non-responders
+
+<img width="1591" height="459" alt="image" src="https://github.com/user-attachments/assets/fb12310f-8c63-4de8-982b-5b4519851683" />
 
 
 ----------- SPRINT 3 ----------------------------- 
