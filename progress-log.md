@@ -49,11 +49,13 @@ Week 6
 - Reviewed literature in preparation for qualitative phase
 - Cross-referenced survey findings with S1 report research questions and hypothesis
 
------------ SPRINT 4 ----------------------------- 
-
 ## Week 7
 - Survey response count reached 32, continued pushing for additional responses
 - Began drafting qualitative interview questions informed by survey data and literature review
+
+  <img width="1477" height="395" alt="image" src="https://github.com/user-attachments/assets/a9c0662c-46dc-4a73-8084-a5937f8b237b" />
+
+----------- SPRINT 4 ----------------------------- 
 
 ## Week 8
 - Finalised 15 interview questions referencing survey data directly
@@ -67,6 +69,9 @@ Week 6
 ----Fiachra Redmond, IT Manager — Maples Group
 ----Elaine Naughton MSc, IT Manager — Galway City Council
 ----Luke O'Sullivan, IT Infrastructure Professional — Cork Institute of Technology
+
+<img width="1590" height="452" alt="image" src="https://github.com/user-attachments/assets/6899cef5-bbb9-474f-99ab-98fdb79263a2" />
+
 
 2 interviewee slots remaining — TBC
 - Interviews scheduled for the week of 30th March
