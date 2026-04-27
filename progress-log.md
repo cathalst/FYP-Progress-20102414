@@ -44,7 +44,7 @@
 <img width="1591" height="459" alt="image" src="https://github.com/user-attachments/assets/fb12310f-8c63-4de8-982b-5b4519851683" />
 
 
------------ SPRINT 3 ----------------------------- 
+----------- SPRINT 3 | Weeks 5–6 | Feb 17 – Feb 28----------------------------- 
 
 ## Week 5
 - Continued LinkedIn outreach to expand survey reach
@@ -57,7 +57,7 @@ Week 6
 <img width="1481" height="388" alt="image" src="https://github.com/user-attachments/assets/107ef3eb-adcb-41c2-a3a1-f209517ef16f" />
 
 
------------ SPRINT 4 ----------------------------- 
+----------- SPRINT 4 | Weeks 7–9 | Mar 3 - Mar 21----------------------------- 
 
 ## Week 7
 - Survey response count reached 32, continued pushing for additional responses
@@ -81,7 +81,7 @@ Week 6
 <img width="1590" height="452" alt="image" src="https://github.com/user-attachments/assets/8ae9489e-71cb-4324-ac7f-1bb1f9232c89" />
 
 
------------ SPRINT 5 ----------------------------- 
+----------- SPRINT 5 | Weeks 10-12 | April 1 – April 27 ----------------------------- 
 
 ## Week 10
 
