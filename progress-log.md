@@ -72,14 +72,47 @@ Week 6
 - Survey responses reached 37/40
 - Interview questions finalised and confirmed
 3 of 5 interviewees confirmed:
-----Fiachra Redmond, IT Manager — Maples Group
-----Elaine Naughton MSc, IT Manager — Galway City Council
-----Luke O'Sullivan, IT Infrastructure Professional — Cork Institute of Technology
+- Fiachra Redmond, IT Manager - Maples Group
+  
+- Elaine Naughton MSc, IT Manager - Galway City Council
+
+- Luke O'Sullivan, IT Support - Cork Institute of Technology
   
 <img width="1590" height="452" alt="image" src="https://github.com/user-attachments/assets/8ae9489e-71cb-4324-ac7f-1bb1f9232c89" />
 
 
+----------- SPRINT 5 ----------------------------- 
 
-2 interviewee slots remaining — TBC
-- Interviews scheduled for the week of 30th March
+## Week 10
+
+- Remaining 2 interviewees confirmed and interviewed: Alan Fagan, IT Manager - Affidea and Caoimhín Ó Ceallaigh, IT Director - Homestore & More
+- Fiachra Redmond Interview Completed - April 1st
+- Elaine McNaughton Interview Completed - April 1st
+- Luke O'Sullivan Interview Completed - April 7th
+- Alan Fagan Interview Completed - April 7th
+- Caoimhín Ó Ceallaigh Interview Completed - April 13th
+- All 5 interviews successfully conducted
+
+- Survey closed with 41 total responses
+- All interviews recorded with consent and submitted to TurboScribe for transcription
+
+## Week 11
+
+- All 5 interview transcripts received, cleaned and formatted
+- Transcripts reviewed for spelling errors and redactions applied where requested by participants
+- Full Interview Transcripts document compiled 
+- Key statements selected per interviewee for use in analysis
+- Chapter 4 - Presentation of Results begun: quantitative and qualitative sections drafted (4.1.1 - 4.1.6)
+
+## Week 12
+
+- Chapter 4 - Analysis of Results completed across all three research questions
+- Quantitative analysis sections written (4.2.1 - 4.2.3) drawing on survey data
+- Qualitative analysis sections written (4.2.4 - 4.2.6) drawing on interview transcripts and key statements
+- Chapter 4 compiled and integrated into main report document
+- Chapter 5 - Conclusions begun, headings defined and drafting commenced
+
+
+  <img width="1797" height="550" alt="image" src="https://github.com/user-attachments/assets/acd9c3e7-7f84-4447-a19d-a538d1803592" />
+
 
